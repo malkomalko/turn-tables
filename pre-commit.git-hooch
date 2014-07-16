@@ -1,2 +1,2 @@
 echo "You can't commit bro.  Push first please."
-exit 1
+exit 2
